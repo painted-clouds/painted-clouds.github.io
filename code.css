@@ -13,12 +13,12 @@ body {
 	font-family: 'Times New Roman', serif; 
 }
 
-/*.wrapper {*/
-/*	width: 960px;*/
-/*	margin: 0 auto;*/
-/*	background: #fff;*/
-/*	padding: 0 45px 20px;*/
-/*}*/
+.wrapper {
+	width: 960px;
+	margin: 0 auto;
+	background: #fff;
+	padding: 0 45px 20px;
+}
 
 /* Write all remaining styles here */
 
@@ -83,46 +83,46 @@ body {
  color:white;
 }
 
-/*.earth{*/
-/*  transition: all 0.5s ease;*/
-/*  background: #aaa;*/
-/*  padding: 50px;*/
-/*}*/
+.earth{
+ transition: all 0.5s ease;
+ background: #aaa;
+ padding: 50px;
+}
 
-/*.image1{*/
-/*  transition: all 0.5s ease;*/
-/*  background: #aaa;*/
-/*  padding: 50px;*/
-/*}*/
-/*.image1:hover {*/
-/*  background: #555;*/
-/*  padding: 50px;*/
-/*}*/
-/*.image2{*/
-/*  transition: all 0.5s ease;*/
-/*  background: #aaa;*/
-/*  padding: 50px;*/
-/*}*/
-/*.image2:hover {*/
-/*  background: #555;*/
-/*  padding: 50px;*/
-/*}*/
-/*.image3{*/
-/*  transition: all 0.5s ease;*/
-/*  background: #aaa;*/
-/*  padding: 50px;*/
-/*}*/
-/*.image3:hover {*/
-/*  background: #555;*/
-/*  padding: 50px;*/
-/*}*/
-/*.image4{*/
-/*  transition: all 0.5s ease;*/
-/*  background: #aaa;*/
-/*  padding: 50px;*/
-/*}*/
-/*.image4:hover {*/
-/*  background: #555;*/
-/*  padding: 50px;*/
-/*}*/
+.image1{
+ transition: all 0.5s ease;
+ background: #aaa;
+ padding: 50px;
+}
+.image1:hover {
+ background: #555;
+ padding: 50px;
+}
+.image2{
+ transition: all 0.5s ease;
+ background: #aaa;
+ padding: 50px;
+}
+.image2:hover {
+ background: #555;
+ padding: 50px;
+}
+.image3{
+ transition: all 0.5s ease;
+ background: #aaa;
+ padding: 50px;
+}
+.image3:hover {
+ background: #555;
+ padding: 50px;
+}
+.image4{
+ transition: all 0.5s ease;
+ background: #aaa;
+ padding: 50px;
+}
+.image4:hover {
+ background: #555;
+ padding: 50px;
+}
 
